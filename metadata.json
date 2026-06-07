@@ -1,0 +1,6 @@
+{
+  "name": "A4 Report Creator",
+  "description": "支援 A4 精緻列印的四頁書面報告工具，包含：封面、心得、目錄、作業區，提供即時互動編輯、多種視覺風格與一鍵列印 PDF 功能。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
